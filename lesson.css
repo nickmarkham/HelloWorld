@@ -1,0 +1,9 @@
+h1 {
+  color: red;
+  background-color: gainsboro;
+}
+h2 {
+  color: blue;
+  background-position: bottom;
+  text-decoration: underline;
+}
